@@ -1,0 +1,16 @@
+{
+  "trailingComma": "none",
+  "tabWidth": 2,
+  "semi": true,
+  "overrides": [
+    {
+      "files": "*.js",
+      "options": {
+        "semi": true
+      }
+    }
+  ],
+  "singleQuote": false,
+  "prettier.proseWrap": "never",
+  "printWidth": 120
+}

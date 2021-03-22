@@ -1,0 +1,17 @@
+{
+    "rules": {
+        "no-unused-vars": "error",
+        "no-undef": 0,
+        "no-const-assign": "error",
+        "prefer-const": "error",
+        "no-var":"error"
+    },
+    "env": {
+        "es6": true
+    },
+
+    "parserOptions": {
+        "ecmaVersion": 6,
+	"parser": "babel-eslint"
+    }
+}
